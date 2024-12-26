@@ -23,7 +23,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Get input from user of nested list to compute numpy array format and declare it both the variable.
 3. Create the variable to use input array to compute of lu_factor of matrix variable.
 4. Create the new variable for lu_solve to compute of 'x' variable and 'b' variable.
-print the corresponding variable (solution) to get output. 
+5. print the corresponding variable (solution) to get output. 
 ## Program:
 (i) To find the L and U matrix
 ```

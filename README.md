@@ -10,10 +10,9 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 (i) To find the L and U matrix
 
-1. Import numpy and scripy.linalg , in linalg you can input lu. and in second program can import lu_factor and lu_solve from python library as same as in second program.
+1. Import numpy and scripy.linalg , in linalg you can input lu. 
 2. Get input from user of nested list to compute numpy array format.
-3. Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the
- package in that variable.
+3. In use input array (matrix) to compute in corresponding function and create a new variable such as piv,l_matrix,u_matrix to store the result.
 4. print the b variable to get output (l_matrix)
 5. print the b variable to get output (U_matrix)
 
